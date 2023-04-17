@@ -27,3 +27,6 @@ background-size: contain;
  font-family: 'Times New Roman', Times, serif;
 
 }
+ul{
+  padding: 0; margin: 0;
+}
