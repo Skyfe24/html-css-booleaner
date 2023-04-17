@@ -1,0 +1,24 @@
+.sopra {
+    border-width: 0; margin: 0; padding: 0;
+    position: absolute; top: 15px; left: 10px;
+    text-align: center;
+    height: 80px; width: 160px;
+    }
+
+
+.dietro {
+height: 100px;
+width: 1000px;
+background-color: rgb(79, 143, 222);
+background-image: url('../img/pattern.png');
+background-repeat: repeat-x;
+background-size: contain;
+}
+.info{
+ 
+  font-size: small; color: darkgrey;
+}
+.mini-info{
+  font-size:smaller;
+  color: darkgrey;
+}
