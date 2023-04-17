@@ -53,3 +53,17 @@ td{
   padding: 30px;
   
 }
+.scritta-finale{
+  color: #887979;
+}
+.wrap-conclusione{
+  padding: 0;
+  margin: 0;
+}
+.testo-interno{
+  position: absolute;
+  margin-top: -15%;
+  color: white;
+  font-size: small;
+
+}
