@@ -1,6 +1,11 @@
+.container{
+  width: 80%;
+  margin: 0 auto;
+}
+
 .sopra {
     border-width: 0; margin: 0; padding: 0;
-    position: absolute; top: 15px; left: 10px;
+    position: absolute; top: 15px; left: 160px;
     text-align: center;
     height: 80px; width: 160px;
     }
@@ -8,7 +13,7 @@
 
 .dietro {
 height: 100px;
-width: 1000px;
+width: 100%;
 background-color: rgb(79, 143, 222);
 background-image: url('../img/pattern.png');
 background-repeat: repeat-x;
@@ -29,4 +34,22 @@ background-size: contain;
 }
 ul{
   padding: 0; margin: 0;
+}
+li{
+  list-style-type: none
+}
+
+.scuretta{
+background-color: #20a9e5;
+color: white;
+text-align: left;
+}
+
+.azzurra{
+  background-color: rgb(104, 151, 213);
+
+}
+td{
+  padding: 30px;
+  
 }
